@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0090-subsets-ii](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0118-pascals-triangle) |
 ## Backtracking
@@ -19,4 +20,8 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0118-pascals-triangle) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
