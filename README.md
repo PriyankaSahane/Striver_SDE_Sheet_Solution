@@ -44,4 +44,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
