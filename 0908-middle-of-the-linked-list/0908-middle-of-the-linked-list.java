@@ -9,22 +9,49 @@
  * }
  */
 class Solution {
-    public ListNode middleNode(ListNode head) {
 
-        if(head==null || head.next == null){
-            return head;
+    public static int listSize(ListNode head){
+        if(head==null || head.next==null){
+            return 0;
         }
 
-        ListNode temp = head;
-        int count=0;
+            int len=0;
+            while(head != null){
+                len++;
+                head=head.next;
+                
+            }
 
-        while(temp != null){
+        
+        return len;
+    }
+
+
+    public ListNode middleNode(ListNode head) {
+        int length= listSize(head);
+        if(length==0){
+            return head;
+        }
+        
+        ListNode temp = head;
+        int midPosition= length/2;
+
+        while(midPosition >0){
+            temp=temp.next;
+            midPosition--;
+        }
+        
+        return temp;
+    }
+        
+
+       /* while(temp != null){
             count++;
             temp=temp.next;
 
         }
 
-        int mid=count/2+1;
+        int mid=count/2;
         temp=head;
 
         while(temp != null){
@@ -36,5 +63,5 @@ class Solution {
         }
         return temp;
         
-    }
+    }*/
 }
