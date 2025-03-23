@@ -7,6 +7,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -65,4 +66,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0002-add-two-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
