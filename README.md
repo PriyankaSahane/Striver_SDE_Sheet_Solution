@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -36,6 +37,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -62,6 +64,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0088-merge-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
