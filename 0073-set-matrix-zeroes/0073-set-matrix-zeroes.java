@@ -39,11 +39,11 @@ class Solution {
         }
        // return matrix;*/
 
-    int rowSize= matrix.length;
+    /*int rowSize= matrix.length;
 	int colSize= matrix[0].length;
 
-	ArrayList<Integer> setRowList= new ArrayList<>();
-	ArrayList<Integer> setColumnList= new ArrayList<>();
+	ArrayList<Integer> setRowList= new ArrayList<>();// takes o(n) time complexity in worst case
+	ArrayList<Integer> setColumnList= new ArrayList<>();//takes o(m) time coplexity in worst case 
 
 	for(int i=0;i<rowSize; i++){
 		for(int j=0;j<colSize; j++){
@@ -60,6 +60,47 @@ class Solution {
 				matrix[i][j]=0;
 			}
 	    }
+    }*/
+
+    ArrayList<Integer> setRowList= new ArrayList<>();
+    ArrayList<Integer> setColList= new ArrayList<>();
+
+    for(int i=0; i<matrix.length; i++){
+        for(int j=0; j<matrix[i].length; j++){
+            if(matrix[i][j]==0){
+                setRowList.add(i);
+                setColList.add(j);
+                
+            }
+        }
     }
+
+    matrix=setRowZero(setRowList, matrix);
+    matrix=setColumnZero(setColList, matrix);
+
+    
+    }
+
+    public static int[][] setRowZero(ArrayList<Integer> rowList, int[][] inputMatrix){
+
+        for(int i=0; i<rowList.size(); i++){
+            int rowPos= rowList.get(i);
+            for( int j=0; j<inputMatrix[0].length; j++){
+                inputMatrix[rowPos][j]=0;
+            }
+        }
+        return inputMatrix;
+
+    }
+
+    public static int[][] setColumnZero(ArrayList<Integer> colList, int[][] inputMatrix){
+
+        for(int i=0; i<colList.size(); i++){
+            int colPos= colList.get(i);
+            for( int j=0; j<inputMatrix.length; j++){
+                inputMatrix[j][colPos]=0;
+            }
+        }
+        return inputMatrix;
     }
 }
