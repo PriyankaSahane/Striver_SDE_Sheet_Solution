@@ -28,9 +28,9 @@ class Solution {
             return resultList;
         }
 
-            List<Integer> firstRow = new ArrayList<>();
-            firstRow.add(1);
-            resultList.add(firstRow);
+           // List<Integer> firstRow = new ArrayList<>();
+            //firstRow.add(1);
+            resultList.add(new ArrayList<>(Arrays.asList(1)));
 
             for(int i=1; i<numRows; i++){
                 List<Integer> prevList= resultList.get(i-1);
