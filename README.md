@@ -40,6 +40,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
@@ -86,4 +88,5 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0005-longest-palindromic-substring) |
+| [0242-valid-anagram](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
