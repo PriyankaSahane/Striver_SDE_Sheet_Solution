@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0088-merge-sorted-array) |
@@ -38,6 +39,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0242-valid-anagram) |
@@ -78,6 +80,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0242-valid-anagram) |
 ## Matrix
@@ -88,5 +91,6 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
