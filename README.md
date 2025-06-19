@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0118-pascals-triangle) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0242-valid-anagram) |
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0088-merge-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0908-middle-of-the-linked-list) |
 ## Math
