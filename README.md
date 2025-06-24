@@ -16,6 +16,7 @@
 | [0090-subsets-ii](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0075-sort-colors](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0088-merge-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0908-middle-of-the-linked-list) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Math
 |  |
 | ------- |
