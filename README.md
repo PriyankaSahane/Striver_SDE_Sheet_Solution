@@ -16,6 +16,7 @@
 | [0090-subsets-ii](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Backtracking
@@ -96,6 +97,7 @@
 | [0073-set-matrix-zeroes](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
@@ -114,4 +116,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0076-minimum-window-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
