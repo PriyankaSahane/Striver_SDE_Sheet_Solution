@@ -16,6 +16,7 @@
 | [0090-subsets-ii](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0303-range-sum-query-immutable](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -119,5 +120,10 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0560-subarray-sum-equals-k) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
