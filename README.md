@@ -18,6 +18,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Backtracking
@@ -52,6 +53,7 @@
 | [0088-merge-sorted-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0242-valid-anagram) |
+| [0594-longest-harmonious-subsequence](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0594-longest-harmonious-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | [0076-minimum-window-substring](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0594-longest-harmonious-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -117,6 +120,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0076-minimum-window-substring) |
+| [0594-longest-harmonious-subsequence](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0594-longest-harmonious-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -126,4 +130,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0303-range-sum-query-immutable) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
