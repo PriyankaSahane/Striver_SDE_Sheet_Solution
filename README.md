@@ -19,6 +19,7 @@
 | [0303-range-sum-query-immutable](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0594-longest-harmonious-subsequence) |
+| [1006-vowel-spellchecker](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/1006-vowel-spellchecker) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Backtracking
@@ -102,6 +103,7 @@
 | [0242-valid-anagram](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0594-longest-harmonious-subsequence) |
+| [1006-vowel-spellchecker](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/1006-vowel-spellchecker) |
 ## Matrix
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 | [0049-group-anagrams](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0242-valid-anagram) |
+| [1006-vowel-spellchecker](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/1006-vowel-spellchecker) |
 ## Sliding Window
 |  |
 | ------- |
