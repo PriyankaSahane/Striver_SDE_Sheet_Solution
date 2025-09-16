@@ -21,6 +21,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1006-vowel-spellchecker](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/1006-vowel-spellchecker) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Backtracking
 |  |
@@ -92,6 +93,7 @@
 | [0002-add-two-numbers](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0050-powx-n) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,4 +139,12 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/0594-longest-harmonious-subsequence) |
+## Stack
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/PriyankaSahane/Striver_SDE_Sheet_Solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
